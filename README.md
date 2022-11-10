@@ -5,4 +5,5 @@
  * Contraseña Cifrada almacenada en base de datos: `$2a$10$Fr0vW4jXkiOzz120.YK27.AhzzYhokfeccRNawS4qu3j6LLm3qdi6`
  * Sistema de Validacion de login con JWT 
  * Proyecto documentado con Swagger
+ * Deploy de aplicacion con Heroku `https://proyectoapirest77.herokuapp.com/index.html`
     
